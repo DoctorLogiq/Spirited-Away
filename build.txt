@@ -1,0 +1,3 @@
+author = Logix
+version = 0.1
+displayName = Spirited Away

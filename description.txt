@@ -1,0 +1,15 @@
+Studio Ghibli's 'Spirited Away' is a fantastic story.
+Now you can bring the characters into your world!
+
+NPCs:
+    No-Face: Spawns randomly, just like the Traveling
+             Merchant. A mysterious figure to be sure.
+             What does he want? Why does he keep
+             offering precious materials? Something
+             seems up with him!
+
+~~~ Changelog ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Version 0.1 "Beginnings":
+    - Added NPCs:
+        - No-Face

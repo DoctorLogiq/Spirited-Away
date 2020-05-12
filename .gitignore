@@ -1,0 +1,17 @@
+﻿# Created by .ignore support plugin (hsz.mobi)
+
+Properties/
+.gitignore
+
+.idea/.idea.SpiritedAway.dir/.idea/.gitignore
+.idea/.idea.SpiritedAway.dir/.idea/.idea.SpiritedAway.dir.iml
+.idea/.idea.SpiritedAway.dir/.idea/encodings.xml
+.idea/.idea.SpiritedAway.dir/.idea/indexLayout.xml
+.idea/.idea.SpiritedAway.dir/.idea/misc.xml
+.idea/.idea.SpiritedAway.dir/.idea/vcs.xml
+.idea/.idea.SpiritedAway.dir/riderModule.iml
+Folder.DotSettings.user
+SpiritedAway.csproj
+SpiritedAway.csproj.user
+bin/
+obj/
